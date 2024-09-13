@@ -25,10 +25,9 @@ To run this project, you will need to set up a Python environment with the neces
 - NumPy
 - Scikit-learn
 
-### Clone Repository
+### Install Packages
 
-You can clone the repository by running the following commands in your terminal:
+You can install packages by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/faeztassawar/Hand-Gesture-Recognition-Machine-Learning-Model.git
-cd Hand_Gesture_Recognition_Machine_Learning_Model
+pip install -r requirements.txt
